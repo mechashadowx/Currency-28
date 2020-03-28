@@ -6,6 +6,10 @@
 
 ### Currency Converter using Fixer API.
 
+- things might be interested in this app :-
+  - uses api.
+  - good UI idea.
+  
 - issues :- 
   - I do not have money to pay for the API.
   - I did not build the from to input the amount of money.
