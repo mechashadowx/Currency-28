@@ -6,7 +6,7 @@
 
 ### Currency Converter using Fixer API.
 
-- issues
+- issues :- 
   - I do not have money to pay for the API.
-  - I did not build the from to input the amount of money
-  - Need more animations
+  - I did not build the from to input the amount of money.
+  - Need more animations.
